@@ -29,7 +29,9 @@ YouTube Shortsを非表示にして、通常の動画に集中できるように
 
 ## スクリーンショット
 
-（公開後に追加予定）
+![YouTube Home](screenshots/screenshot1.png)
+![Blocked Page](screenshots/screenshot2.png)
+![Popup](screenshots/screenshot3.png)
 
 ## プライバシー
 
