@@ -31,13 +31,13 @@ YouTube Shortsを非表示にして、通常の動画に集中できるように
 
 ## スクリーンショット
 
-![YouTube Home](screenshots/screenshot1.png)
+![YouTube Home](screenshot/screenshot1.png)
 *Shortsセクションが非表示になります*
 
-![Blocked Page](screenshots/screenshot2.png)
+![Blocked Page](screenshot/screenshot2.png)
 *Shorts動画ページはブロックされます*
 
-![Popup](screenshots/screenshot3.png)
+![Popup](screenshot/screenshot3.png)
 *拡張機能の状態を確認できます*
 
 ## プライバシー
