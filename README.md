@@ -2,6 +2,8 @@
 
 YouTube Shortsを非表示にして、通常の動画に集中できるようにするChrome拡張機能です。
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nelcjiaebhdnggdnnhmbgcjnpghncbeo)](https://chromewebstore.google.com/detail/youtube-shorts-blocker/nelcjiaebhdnggdnnhmbgcjnpghncbeo)
+
 ## 特徴
 
 - YouTube Shortsのセクションを完全に非表示
@@ -11,9 +13,9 @@ YouTube Shortsを非表示にして、通常の動画に集中できるように
 
 ## インストール方法
 
-### Chrome Web Storeから（審査中）
+### Chrome Web Storeから（おすすめ）
 
-現在Chrome Web Storeで審査中です。公開されたらリンクを追加します。
+**[Chrome Web Storeでインストール](https://chromewebstore.google.com/detail/youtube-shorts-blocker/nelcjiaebhdnggdnnhmbgcjnpghncbeo)**
 
 ### 手動インストール（開発者向け）
 
@@ -29,9 +31,14 @@ YouTube Shortsを非表示にして、通常の動画に集中できるように
 
 ## スクリーンショット
 
-![YouTube Home](screenshot/screenshot1.png)
-![Blocked Page](screenshot/screenshot2.png)
-![Popup](screenshot/screenshot3.png)
+![YouTube Home](screenshots/screenshot1.png)
+*Shortsセクションが非表示になります*
+
+![Blocked Page](screenshots/screenshot2.png)
+*Shorts動画ページはブロックされます*
+
+![Popup](screenshots/screenshot3.png)
+*拡張機能の状態を確認できます*
 
 ## プライバシー
 
@@ -49,3 +56,5 @@ MIT License
 ## フィードバック
 
 バグ報告や機能リクエストは、[Issues](https://github.com/2k-yuito/youtube-shorts-blocker/issues)からお願いします。
+
+レビューもお待ちしています！
